@@ -1,0 +1,10 @@
+# Unit test / coverage reports
+.pytest_cache/
+*__pycache__*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+.DS_Store
+
+.idea/

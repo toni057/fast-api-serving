@@ -1,0 +1,5 @@
+fastapi==0.60.1
+pandas==0.25.3
+scikit-learn==0.23.1
+pydantic==1.6.1
+pickleshare==0.7.5
